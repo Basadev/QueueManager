@@ -1,0 +1,8 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "e4251e935e1a2b6ecb278c5a84f66a29"
+inputs: 
+- "/Users/professional/Workspace/Freelance/QueueManager/QueueManager/MenuVC.swift"
+- "/Users/professional/Workspace/Freelance/QueueManager/QueueManager/AppDelegate.swift"
+- "/Users/professional/Workspace/Freelance/QueueManager/QueueManager/QueueStateVC.swift"
+- "/Users/professional/Workspace/Freelance/QueueManager/QueueManager/servicesListVC.swift"
+- "/Users/professional/Workspace/Freelance/QueueManager/QueueManager/LoginVC.swift"
